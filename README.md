@@ -37,7 +37,7 @@ Framework de automação de testes desenvolvido em C#, utilizando SpecFlow para 
 ## Clonando o Repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/tidenis/specflowseleniumrestsharp.git
 ```
 
 ## Boas Práticas Adotadas
